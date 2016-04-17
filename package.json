@@ -1,0 +1,16 @@
+{
+  "title": "Latest Ruby Doc",
+  "name": "latest-ruby-doc",
+  "version": "0.0.1",
+  "description": "hoge",
+  "main": "index.js",
+  "author": "Masataka Kuwabara",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "CC0",
+  "keywords": [
+    "jetpack"
+  ]
+}
